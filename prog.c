@@ -2,6 +2,7 @@
 int main()
 {
 	printf("My first program");
-printf("is it ur first prog....?");hbn
+printf("is it ur first prog....?");
+printf("please don't waste time");
 
 }
